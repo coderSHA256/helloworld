@@ -1,3 +1,3 @@
 function foo() {
-	console.log("This function logs foo")
+	return "this function returns foo"
 }
